@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'am djuzee_</h1>
 <h3 align="center">A application and web developer</h3>
 
-<p>https://djuzee3867.github.io/portfolio_djuzee/</p>
-<a hraf="https://djuzee3867.github.io/portfolio_djuzee/"> <button>Here</button></a>
+<p align="center">https://djuzee3867.github.io/portfolio_djuzee/</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djuzee3867&label=Profile%20views&color=0e75b6&style=flat" alt="djuzee3867" /> </p>
 
