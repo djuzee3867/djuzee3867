@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'am djuzee_</h1>
 <h3 align="center">A application and web developer</h3>
 
-<p align="center">https://djuzee-website.web.app/</p>
+<p align="center">https://djuzee-link-website.web.app/</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djuzee3867&label=Profile%20views&color=0e75b6&style=flat" alt="djuzee3867" /> </p>
